@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5684d3bd974231100bb479100153af14" sys_domain="global" table="x_58872_needit_needit2" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e84d3bd974231100bb479100153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5684d3bd974231100bb479100153af14</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">1e84d3bd974231100bb479100153af3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d684d3bd974231100bb479100153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5684d3bd974231100bb479100153af14</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">de84d3bd974231100bb479100153af3a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1284d3bd974231100bb479100153af1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5684d3bd974231100bb479100153af14</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5e84d3bd974231100bb479100153af17</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a84d3bd974231100bb479100153af57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5684d3bd974231100bb479100153af14</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">d284d3bd974231100bb479100153af54</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a84d3bd974231100bb479100153af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5684d3bd974231100bb479100153af14</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_58872_needit_needit2" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9a84d3bd974231100bb479100153af1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needit2</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-23 20:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5684d3bd974231100bb479100153af14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5684d3bd974231100bb479100153af14</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-23 20:20:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

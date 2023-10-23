@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3e001bb5974231100bb479100153af93" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="NF1" max_length="40" name="nf1" type="integer"/>
+    </element>
+</database>
